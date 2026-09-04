@@ -1,20 +1,26 @@
 # Hi, I'm James Delgado
 
-## From sand to Hello World — and now to intelligent systems
+## From sand to `Hello, World!` — and now to intelligent systems
 
-My career and education have taken me through multiple layers of the technology stack: **semiconductor manufacturing, process engineering, research infrastructure, facilities operations, computer systems, programming, data, machine learning, and deep learning**.
+The phrase is intentionally a little nerdy, but it is also a pretty accurate summary of my career.
 
-I started close to the physical layer of technology, working with semiconductor processes, equipment, experiments, production metrics, and manufacturing systems. Over time, my work expanded into research environments, laboratories, infrastructure, capital projects, and complex technical operations.
+**Sand becomes silicon. Silicon becomes semiconductors. `Hello, World!` is the traditional first program many people write when learning to code.** I started my career close to the physical side of that stack, working in semiconductor manufacturing and process engineering. Years later, I began learning programming and eventually AI, machine learning, and deep learning.
 
-In parallel, I kept moving upward through the computing stack: electronics and physics, Python and C++, computer organization, Unix, virtualization, databases, machine learning, computer vision, NLP, and now deep learning and data science.
+So when I say **“from sand to `Hello, World!`”**, I mean that I have worked and studied across very different layers of the technology stack — from the materials and equipment that make computing possible, through research infrastructure and operations, and upward into computing, software, data, and artificial intelligence.
 
-I think of that journey as:
+My path looks something like this:
 
 **Sand → Silicon → Equipment → Processes → Infrastructure → Computing → Software → Data → AI**
 
 Or more simply:
 
-**From sand to software to intelligence.**
+**From physical technology to software to intelligence.**
+
+My career and education have taken me through **semiconductor manufacturing, process engineering, research infrastructure, facilities operations, computer systems, programming, data, machine learning, and deep learning**.
+
+I started close to the physical layer of technology, working with semiconductor processes, equipment, experiments, production metrics, and manufacturing systems. Over time, my work expanded into research environments, laboratories, infrastructure, capital projects, and complex technical operations.
+
+In parallel, I kept moving upward through the computing stack: electronics and physics, Python and C++, computer organization, Unix, virtualization, databases, machine learning, computer vision, NLP, and now deep learning and data science.
 
 ## Past → Present → Future
 
