@@ -1,69 +1,91 @@
 # Career & Learning Journey
 
-This page gives more context behind the projects on my GitHub. The common thread across my career has been working with complex technical systems, learning how they behave, improving the processes around them, and taking on broader responsibility over time.
+## From sand to software to intelligence
 
-## Past: Building a Technical Foundation
+The common thread across my career and education is a steady movement through different layers of technology.
 
-### Texas Instruments — Process Engineering Technician
-My early technical experience included semiconductor manufacturing work involving **experimental runs, tool qualification, production metrics, and equipment reporting**. This was an environment where precision, repeatability, process discipline, and reliable data mattered.
+I started close to the physical layer in semiconductor manufacturing and process engineering, working with equipment, experiments, production metrics, and technical processes. My professional work later expanded into laboratories, infrastructure, facilities, capital equipment, projects, and research operations.
 
-### University of Houston — Adventure Guide
-I also spent several years leading **cycling adventure trips and team-building activities**. Although different from engineering, this strengthened another part of my professional foundation: communication, situational awareness, leadership, and responsibility for people in real-world conditions.
+At the same time, my education moved upward through the computing stack: electronics, physics, programming, computer organization, operating systems, virtualization, databases, machine learning, computer vision, natural language processing, deep learning, and data science.
 
-### Samsung Semiconductor — Process Engineering Technician
-At Samsung, I continued working in semiconductor manufacturing, including procedures for **lot disposition and production priorities**. This reinforced the relationship between engineering decisions, operational constraints, throughput, and manufacturing execution.
+I think of the path like this:
 
-### University of Houston — Process Engineer
-I later moved into process engineering and research work at the University of Houston, including development and improvement of **HTS superconductor substrates**. This expanded my experience from production operations into applied research and technical development.
+**Sand → Silicon → Equipment → Processes → Infrastructure → Computing → Software → Data → AI**
 
-## Present: Operating Complex Research Environments
+That is why I describe my background as spanning the physical, operational, computational, and intelligent layers of technical systems.
 
-My professional work is now centered on **facilities and research operations at Rice University**. My background has grown to include administrative and research operations, procurement, capital equipment, laboratory and research-space planning, project management, and process improvement.
+## Physical Technology & Semiconductors
 
-This work is highly systems-oriented. Research environments combine buildings, laboratories, specialized equipment, infrastructure, budgets, schedules, researchers, vendors, safety requirements, and institutional processes. Much of the job is understanding how those pieces depend on each other and making decisions that keep the overall system working.
+My early technical experience included semiconductor manufacturing work at **Texas Instruments** and **Samsung Semiconductor**. I worked around experimental runs, equipment qualification, production metrics, equipment reporting, lot disposition, manufacturing priorities, and process discipline.
 
-That systems perspective is one reason I became increasingly interested in AI, machine learning, and robotics.
+Those environments taught me to think in terms of precision, repeatability, process control, measurement, troubleshooting, reliability, and optimization.
 
-## Current Technical Learning
+## Process Engineering & Applied Research
 
-I am building my AI/ML skills through projects rather than treating the subject as a collection of buzzwords. My current learning includes:
+At the **University of Houston**, I moved further into process engineering and applied research, including work involving HTS superconductor substrates.
 
-- Git, GitHub, and version-control workflows
-- Python and Jupyter notebooks
-- machine-learning fundamentals
-- tensors and neural-network training
-- TensorFlow and PyTorch
-- Scikit-learn and H2O
-- CNNs and transfer learning
-- computer vision
-- AutoML
-- distributed computing concepts
-- NLP and transformer ecosystems
-- AI ethics, risk, and real-world applications
+This expanded my experience from production operations into experimentation, materials/process development, and technical problem-solving.
 
-The projects on this profile represent different stages of that progression.
+My broader technical education also included engineering, electronics, chemistry, physics, mathematics, and technical communication.
 
-## Future: Connecting AI to Physical and Operational Systems
+## Research Infrastructure & Operations
 
-The direction I am building toward combines three parts of my background:
+My professional work now centers on **facilities and research operations at Rice University**.
 
-**Engineering and process thinking**  
-Understanding equipment, processes, data, reliability, experimentation, and optimization.
+This work sits at the intersection of laboratories, specialized equipment, infrastructure, procurement, capital projects, budgets, schedules, vendors, research needs, and institutional processes.
 
-**Operations and leadership**  
-Understanding how technical systems function inside real organizations, with real constraints, budgets, people, infrastructure, and competing priorities.
+It requires a systems view: understanding how technical dependencies affect outcomes and how reliability, resources, timelines, and people fit together.
 
-**AI, machine learning, and robotics**  
-Building the ability to use data and intelligent systems to recognize patterns, support decisions, automate work, and eventually interact more directly with physical systems.
+## Computing Foundations
 
-I am especially interested in applications where AI moves beyond a screen and becomes part of how real environments operate: predictive systems, intelligent facilities, research infrastructure, automation, equipment monitoring, robotics, decision support, and other cyber-physical systems.
+My education then moved further into computing. I studied programming in **Python and C++**, followed by **computer organization**, **Unix operating systems**, **computer virtualization**, and **database theory and design**.
+
+Those topics helped me connect the physical technology I had worked around to the computing layers that control, model, store, and analyze modern systems.
+
+My first `Hello, World!` was not the beginning of my technology career. It was the point where I began learning another layer of the stack.
+
+## Artificial Intelligence & Machine Learning
+
+My AI coursework has progressed through:
+
+- Artificial intelligence history
+- Introduction to machine learning
+- AI in cybersecurity
+- Computer vision
+- AI applications
+- Natural language processing
+- Deep learning
+- Data science
+
+Along the way, I have studied concepts including regression and classification, tensors and neural-network training, CNNs, transfer learning, model evaluation, TensorFlow, PyTorch, Scikit-learn, H2O, AutoML, distributed computing, NLP pipelines, transformer models, and AI ethics.
+
+## A Broader Technology-Stack Perspective
+
+I do not mean “full stack” in the web-development sense. I mean that my experience spans multiple layers:
+
+- **Materials & physical processes:** semiconductors, electronics, equipment, experiments, manufacturing processes
+- **Engineering & operations:** process control, reliability, optimization, research environments, facilities, infrastructure, capital projects
+- **Computing systems:** programming, computer organization, operating systems, virtualization, databases
+- **Data & intelligence:** machine learning, computer vision, NLP, deep learning, data science
+
+That breadth shapes how I approach technical problems. I naturally think about what happens below the software layer: where the data comes from, what physical process creates it, what infrastructure supports it, what constraints matter, and how people interact with the technology.
+
+## Future: Bringing the Layers Back Together
+
+The direction I am building toward is to reconnect these layers through **AI, robotics, automation, and intelligent physical systems**.
+
+I am especially interested in industrial AI, robotics, predictive maintenance, digital twins, intelligent facilities, laboratory automation, equipment monitoring, advanced manufacturing, and AI-assisted operational decision support.
+
+The long-term idea is simple:
+
+**Understand the physical system. Understand the operation. Understand the computing layer. Then add intelligence where it creates real value.**
 
 ## Why I Keep the Early Projects
 
-Some repositories on this GitHub are intentionally basic. They show the actual sequence of learning rather than presenting only polished end results.
+Some repositories on this GitHub are intentionally basic. They are part of the story.
 
-The progression matters to me:
+The progression matters:
 
-**Git & Jupyter fundamentals → applied AI research → computer vision & transfer learning → machine/deep-learning framework analysis → deeper AI/ML and robotics work**
+**Semiconductor & process engineering → research operations → Git & Jupyter → programming & computing systems → applied AI → computer vision & NLP → deep learning & data science → intelligent physical systems**
 
-My goal is for this GitHub to remain a record of that progression as the projects become more technically advanced.
+I want this GitHub to show not just what I know at one point in time, but how I learned it and how the different layers connect.
