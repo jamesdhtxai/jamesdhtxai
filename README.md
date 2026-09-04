@@ -1,39 +1,60 @@
 # Hi, I'm James Delgado
 
-I am a facilities and research operations professional at Rice University building deeper technical capability in **artificial intelligence, machine learning, deep learning, computer vision, and robotics**.
+## From sand to Hello World — and now to intelligent systems
 
-My career has moved through semiconductor manufacturing, process engineering, research environments, and facilities leadership. My GitHub documents the next stage of that journey: learning how data, software, machine learning, and intelligent systems can be applied to real-world technical and operational problems.
+My career and education have taken me through multiple layers of the technology stack: **semiconductor manufacturing, process engineering, research infrastructure, facilities operations, computer systems, programming, data, machine learning, and deep learning**.
+
+I started close to the physical layer of technology, working with semiconductor processes, equipment, experiments, production metrics, and manufacturing systems. Over time, my work expanded into research environments, laboratories, infrastructure, capital projects, and complex technical operations.
+
+In parallel, I kept moving upward through the computing stack: electronics and physics, Python and C++, computer organization, Unix, virtualization, databases, machine learning, computer vision, NLP, and now deep learning and data science.
+
+I think of that journey as:
+
+**Sand → Silicon → Equipment → Processes → Infrastructure → Computing → Software → Data → AI**
+
+Or more simply:
+
+**From sand to software to intelligence.**
 
 ## Past → Present → Future
 
-### Past: Manufacturing & Process Engineering
+### Past: Physical Technology, Manufacturing & Process Engineering
 My technical foundation began in semiconductor and process-engineering environments. I worked in process engineering roles at **Texas Instruments**, **Samsung Semiconductor**, and the **University of Houston**, gaining experience with experimental runs, equipment qualification, production metrics, manufacturing priorities, research processes, and continuous improvement.
 
-Those roles taught me to think in terms of **systems, process control, measurement, troubleshooting, reliability, and optimization**.
+Those roles taught me to think in terms of **systems, process control, measurement, troubleshooting, reliability, experimentation, and optimization**.
 
-### Present: Facilities, Research Operations & AI/ML Learning
-Today, my work centers on **facilities and research operations at Rice University**, where I apply project management, lab and research-space planning, resource coordination, procurement, and operational problem-solving.
+### Present: Research Operations + Computing + AI/ML
+Today, my professional work centers on **facilities and research operations at Rice University**, where I work across laboratories, technical infrastructure, projects, procurement, capital equipment, space, and operational problem-solving.
 
-At the same time, I am deliberately building a second technical layer through hands-on study of AI/ML. My repositories show that progression from foundational Git and Jupyter skills to computer vision, deep learning, AutoML, NLP, and comparative evaluation of modern ML frameworks.
+At the same time, I am deliberately building the computational and intelligent layers of my background. My coursework and projects now span **programming, computer organization, operating systems, virtualization, database design, AI history, machine learning, cybersecurity, computer vision, NLP, deep learning, and data science**.
 
-### Future: Intelligent Systems for Real-World Operations
-My long-term direction is at the intersection of **AI/ML, robotics, research environments, and physical operations**. I am especially interested in how intelligent systems can improve decision-making, automation, reliability, resource use, and complex technical workflows.
+My GitHub documents that progression from early Git/Jupyter fundamentals to computer vision, applied AI research, and comparative analysis of modern machine-learning and deep-learning frameworks.
 
-I am not trying to skip the fundamentals. I am building the stack deliberately: understand the tools, understand the math and workflow behind them, build projects, and connect the technology back to real systems.
+### Future: Bring the Layers Back Together
+My long-term direction is to connect these layers through **AI, robotics, automation, and intelligent physical systems**.
+
+I am especially interested in areas where software and AI interact with real equipment, research environments, infrastructure, and operations: **industrial AI, robotics, intelligent facilities, predictive maintenance, digital twins, laboratory automation, equipment monitoring, decision support, and cyber-physical systems**.
+
+The goal is not to leave my earlier experience behind. It is to add intelligence to a stack I already understand from the physical and operational side.
 
 [Read the fuller career and learning journey →](CAREER_JOURNEY.md)
 
 ## What I'm learning
 
 - Machine-learning and deep-learning fundamentals
-- Python and Jupyter-based technical workflows
+- Python and C++ programming
+- Git, GitHub, Jupyter, and reproducible technical workflows
+- Computer organization and computing fundamentals
+- Unix operating systems and virtualization
+- Database theory and design
 - Tensor concepts and neural-network training
 - CNNs and transfer learning for computer vision
-- Model evaluation and validation concepts
+- Model evaluation and validation
 - AutoML and distributed machine-learning platforms
 - NLP and transformer ecosystems
+- AI in cybersecurity
+- Data science
 - AI applications, ethics, and organizational impact
-- GitHub-based project documentation and version control
 - GitHub Pages and technical portfolio publishing
 
 ## Featured projects
@@ -65,9 +86,9 @@ My foundational repository for learning version control, commits, Jupyter notebo
 
 ## How I approach technical learning
 
-I learn best by working back to first principles and making sure I can explain **why** a tool or method works before treating it as a feature to memorize. My projects therefore include both the finished work and the reasoning, comparisons, and context that helped me understand it.
+I learn best by working back to first principles and making sure I can explain **why** a tool or method works before treating it as a feature to memorize.
 
-My background in process engineering and facilities operations shapes how I think about technology: I naturally look at **systems, dependencies, scalability, reliability, constraints, and how technical decisions affect people and operations**.
+My background gives me a broad systems perspective. I have worked and studied across the physical, operational, computational, and now intelligent layers of technology, so I naturally think about **dependencies, scalability, reliability, constraints, interfaces, and how technical decisions affect the whole system**.
 
 ## Contact
 
