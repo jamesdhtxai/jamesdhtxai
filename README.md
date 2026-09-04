@@ -15,6 +15,7 @@ My GitHub documents the progression of that learning: from foundational tools su
 - NLP and transformer ecosystems
 - AI applications, ethics, and organizational impact
 - GitHub-based project documentation and version control
+- GitHub Pages and technical portfolio publishing
 
 ## Featured projects
 
@@ -32,6 +33,11 @@ A learning project exploring the image-classification pipeline with TensorFlow/K
 A 12-module portfolio examining AI applications across finance, manufacturing, government, retail, entertainment, and other domains, with attention to practical value, ethics, risk, and organizational impact.
 
 **Demonstrates:** research synthesis, systems thinking, AI use-case evaluation, ethics, risk analysis, and technical communication.
+
+### [GitHub Pages Portfolio Publishing](https://github.com/jamesdhtxai/skills-github-pages)
+A hands-on publishing project using GitHub Pages, Jekyll, and Markdown to turn repository content into a public technical-learning site.
+
+**Demonstrates:** technical publishing, static-site workflow, Jekyll structure, Markdown, and portfolio development.
 
 ### [Git, GitHub & Jupyter Notebook Fundamentals](https://github.com/jamesdhtxai/jupyter-exploration)
 My foundational repository for learning version control, commits, Jupyter notebooks, Markdown cells, and executable Python cells.
