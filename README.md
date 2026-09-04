@@ -6,7 +6,7 @@ The phrase is intentionally a little nerdy, but it is also a pretty accurate sum
 
 **Sand becomes silicon. Silicon becomes semiconductors. `Hello, World!` is the traditional first program many people write when learning to code.** I started my career close to the physical side of that stack, working in semiconductor manufacturing and process engineering. Years later, I began learning programming and eventually AI, machine learning, and deep learning.
 
-So when I say **“from sand to `Hello, World!`”**, I mean that I have worked and studied across very different layers of the technology stack — from the materials and equipment that make computing possible, through research infrastructure and operations, and upward into computing, software, data, and artificial intelligence.
+So when I say **“from sand to `Hello, World!`”**, I mean that I have worked and studied across very different layers of the technology stack, from the materials and equipment that make computing possible, through research infrastructure and operations, and upward into computing, software, data, and artificial intelligence.
 
 My path looks something like this:
 
