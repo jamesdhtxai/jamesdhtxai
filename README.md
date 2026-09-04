@@ -1,6 +1,6 @@
 # Hi, I'm James Delgado
 
-## From sand to `Hello, World!` — and now to intelligent systems
+## From sand to `Hello, World!` and now to intelligent systems
 
 The phrase is intentionally a little nerdy, but it is also a pretty accurate summary of my career.
 
