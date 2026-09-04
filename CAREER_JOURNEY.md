@@ -1,12 +1,14 @@
 # Career & Learning Journey
 
-## From sand to software to intelligence
+## From sand to `Hello, World!` — and now to intelligent systems
 
-The common thread across my career and education is a steady movement through different layers of technology.
+The phrase is intentionally a little nerdy, but it captures the path surprisingly well.
 
-I started close to the physical layer in semiconductor manufacturing and process engineering, working with equipment, experiments, production metrics, and technical processes. My professional work later expanded into laboratories, infrastructure, facilities, capital equipment, projects, and research operations.
+**Sand is the raw material behind silicon. Silicon becomes the foundation of semiconductor devices. `Hello, World!` is the traditional first program many people write when they begin coding.**
 
-At the same time, my education moved upward through the computing stack: electronics, physics, programming, computer organization, operating systems, virtualization, databases, machine learning, computer vision, natural language processing, deep learning, and data science.
+I started my career close to the physical side of that technology stack, in semiconductor manufacturing and process engineering. Later, my work expanded into research infrastructure and technical operations. At the same time, my education moved upward into programming, computing systems, data, machine learning, and now deep learning.
+
+So “from sand to `Hello, World!`” is shorthand for a much broader journey through the layers that make modern technology possible.
 
 I think of the path like this:
 
@@ -35,6 +37,8 @@ My professional work now centers on **facilities and research operations at Rice
 This work sits at the intersection of laboratories, specialized equipment, infrastructure, procurement, capital projects, budgets, schedules, vendors, research needs, and institutional processes.
 
 It requires a systems view: understanding how technical dependencies affect outcomes and how reliability, resources, timelines, and people fit together.
+
+That systems perspective is one reason I became increasingly interested in AI, machine learning, and robotics.
 
 ## Computing Foundations
 
