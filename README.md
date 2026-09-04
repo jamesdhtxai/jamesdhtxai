@@ -1,8 +1,27 @@
 # Hi, I'm James Delgado
 
-I am a facilities operations leader at Rice University building deeper technical skills in **artificial intelligence, machine learning, deep learning, computer vision, and robotics**.
+I am a facilities and research operations professional at Rice University building deeper technical capability in **artificial intelligence, machine learning, deep learning, computer vision, and robotics**.
 
-My GitHub documents the progression of that learning: from foundational tools such as Git, GitHub, Jupyter, and Python notebooks to applied AI research, computer-vision workflows, and comparative analysis of modern ML/DL frameworks.
+My career has moved through semiconductor manufacturing, process engineering, research environments, and facilities leadership. My GitHub documents the next stage of that journey: learning how data, software, machine learning, and intelligent systems can be applied to real-world technical and operational problems.
+
+## Past → Present → Future
+
+### Past: Manufacturing & Process Engineering
+My technical foundation began in semiconductor and process-engineering environments. I worked in process engineering roles at **Texas Instruments**, **Samsung Semiconductor**, and the **University of Houston**, gaining experience with experimental runs, equipment qualification, production metrics, manufacturing priorities, research processes, and continuous improvement.
+
+Those roles taught me to think in terms of **systems, process control, measurement, troubleshooting, reliability, and optimization**.
+
+### Present: Facilities, Research Operations & AI/ML Learning
+Today, my work centers on **facilities and research operations at Rice University**, where I apply project management, lab and research-space planning, resource coordination, procurement, and operational problem-solving.
+
+At the same time, I am deliberately building a second technical layer through hands-on study of AI/ML. My repositories show that progression from foundational Git and Jupyter skills to computer vision, deep learning, AutoML, NLP, and comparative evaluation of modern ML frameworks.
+
+### Future: Intelligent Systems for Real-World Operations
+My long-term direction is at the intersection of **AI/ML, robotics, research environments, and physical operations**. I am especially interested in how intelligent systems can improve decision-making, automation, reliability, resource use, and complex technical workflows.
+
+I am not trying to skip the fundamentals. I am building the stack deliberately: understand the tools, understand the math and workflow behind them, build projects, and connect the technology back to real systems.
+
+[Read the fuller career and learning journey →](CAREER_JOURNEY.md)
 
 ## What I'm learning
 
@@ -48,13 +67,10 @@ My foundational repository for learning version control, commits, Jupyter notebo
 
 I learn best by working back to first principles and making sure I can explain **why** a tool or method works before treating it as a feature to memorize. My projects therefore include both the finished work and the reasoning, comparisons, and context that helped me understand it.
 
-My professional background in facilities operations also shapes how I think about technology: I tend to look at systems, dependencies, scalability, real-world constraints, and how technical decisions affect people and operations.
-
-## Current direction
-
-I am continuing to build practical experience in AI/ML and robotics while connecting those skills to real-world operational and organizational problems.
+My background in process engineering and facilities operations shapes how I think about technology: I naturally look at **systems, dependencies, scalability, reliability, constraints, and how technical decisions affect people and operations**.
 
 ## Contact
 
 - GitHub: [github.com/jamesdhtxai](https://github.com/jamesdhtxai)
+- LinkedIn: [linkedin.com/in/james-delgado-a5471622a](https://www.linkedin.com/in/james-delgado-a5471622a/)
 - Email: jamesdhtxai@gmail.com
